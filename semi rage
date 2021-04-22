@@ -28,16 +28,14 @@ do
         ["Sick"] = 0.01,
         ["Good"] = 0.05,
         ["Ok"] = 0.15,
-        ["Bad"] = 0.2,
-	["Miss"] = 0.3
+        ["Bad"] = 0.2
     }
 
     Variables.Constants.ACCURACY_NAMES = {
         "Sick", 
         "Good", 
         "Ok", 
-        "Bad",
-	"Miss"
+        "Bad"
     }
 end
 
